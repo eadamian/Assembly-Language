@@ -1,5 +1,5 @@
 # MIPS assembly language program by Eric Adamian
-# asks user to input 20 integers, prints reverse of input on single line
+# asks user to input 20 integers, prints reverse of inputs on single line
 
 #	$t0	base address of array
 #	$t1	array’s upper bound
