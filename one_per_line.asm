@@ -15,8 +15,8 @@
 .text
 .globl main
 
-# program entry
-main:	
+main:	# program entry	
+
 	# display greeting message
 	la $a0, greeting_msg
 	li $v0, 4
