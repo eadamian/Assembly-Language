@@ -6,11 +6,11 @@ Recursive binary search algorithm:
 
 		mid = start + (end - start)/2; 
 
-
 		if (array[mid] == searchVal) 
 		  return true; 
 
-		if (array[mid] > searchVal) 		  return binarySearch(array, start, mid-1, searchVal);
+		if (array[mid] > searchVal)		  
+		  return binarySearch(array, start, mid-1, searchVal);
  
     		return binarySearch(array, mid+1, end, searchVal);
 	}
