@@ -1,0 +1,16 @@
+Recursive binary search algorithm: 
+
+	binarySearch(&array, start, end, searchVal){
+    		if (start > end)
+		  return false 
+
+		mid = start + (end - start)/2; 
+
+		if (array[mid] == searchVal) 
+		  return true; 
+
+		if (array[mid] > searchVal)		  
+		  return binarySearch(array, start, mid-1, searchVal);
+ 
+    		return binarySearch(array, mid+1, end, searchVal);
+	}
