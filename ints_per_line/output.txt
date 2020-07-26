@@ -1,0 +1,34 @@
+Please enter 20 integers
+Enter integer: 4
+Enter integer: 7
+Enter integer: 8
+Enter integer: 12
+Enter integer: 13
+Enter integer: 14
+Enter integer: 6
+Enter integer: 14
+Enter integer: 21
+Enter integer: 18
+Enter integer: 24
+Enter integer: 10
+Enter integer: 19
+Enter integer: 31
+Enter integer: 29
+Enter integer: 11
+Enter integer: 16
+Enter integer: 18
+Enter integer: 12
+Enter integer: 2
+
+Your inputted values, but in reverse order: 
+2 12 18 16 11 29 31 19 10 24 18 21 14 6 14 13 12 8 7 4 
+
+Enter number of ints per line: 3
+2 12 18
+16 11 29
+31 19 10
+24 18 21
+14 6 14
+13 12 8
+7 4 
+-- program is finished running --

@@ -1,0 +1,17 @@
+Please enter a value of n: 5
+Your n'th value of sequence: 5
+Your fibonacci sequence: 0 1 1 2 3 5 
+-- program is finished running --
+
+Please enter a value of n: 10
+Your n'th value of sequence: 55
+Your fibonacci sequence: 0 1 1 2 3 5 8 13 21 34 55 
+-- program is finished running --
+
+Please enter a value of n: 50
+Error: Number is not within range!
+
+Please enter a value of n: 15
+Your n'th value of sequence: 610
+Your fibonacci sequence: 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 
+-- program is finished running --

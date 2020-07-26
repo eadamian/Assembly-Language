@@ -1,0 +1,25 @@
+Please enter 20 integers
+Enter integer: 8
+Enter integer: 13
+Enter integer: 7
+Enter integer: 27
+Enter integer: 21
+Enter integer: 4
+Enter integer: 19
+Enter integer: 16
+Enter integer: 15
+Enter integer: 10
+Enter integer: 9
+Enter integer: 22
+Enter integer: 15
+Enter integer: 14
+Enter integer: 11
+Enter integer: 20
+Enter integer: 6
+Enter integer: 5
+Enter integer: 20
+Enter integer: 11
+
+Your inputted values, but in reverse order: 
+11 20 5 6 20 11 14 15 22 9 10 15 16 19 4 21 27 7 13 8 
+-- program is finished running --

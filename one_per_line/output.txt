@@ -1,0 +1,45 @@
+Please enter 20 integers
+Enter integer: 13
+Enter integer: 7
+Enter integer: 15
+Enter integer: 9
+Enter integer: 18
+Enter integer: 22
+Enter integer: 4
+Enter integer: 13
+Enter integer: 11
+Enter integer: 2
+Enter integer: 16
+Enter integer: 24
+Enter integer: 19
+Enter integer: 16
+Enter integer: 7
+Enter integer: 8
+Enter integer: 23
+Enter integer: 28
+Enter integer: 5
+Enter integer: 2
+
+Your inputted values, one per line: 
+13
+7
+15
+9
+18
+22
+4
+13
+11
+2
+16
+24
+19
+16
+7
+8
+23
+28
+5
+2
+
+-- program is finished running --
